@@ -10,7 +10,7 @@ End-to-end revenue analytics project for a retail company aimed at improving bus
 📸 Preview 
 
 
-<img width="587" height="329" alt="Revenue Performance Analysis" src="https://github.com/user-attachments/assets/2060e1bb-6f0b-46b8-a7fb-a6dde9359c15" />
+<img width="587" height="329" alt="Revenue Performance Analysis" src="docs/Revenue Performance Analysis.png" />
 
 
 🛠️ Technical Stack
